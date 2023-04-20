@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Francisco 👋 
+## Full Stack Developer :man_technologist: from Argentina :argentina:
 
-<!--
-**FranciscoJoseGarcia/FranciscoJoseGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **The Prode Project**, an aplication where users from different countries can participate in tournaments according to their        geographic location, make predictions, view results and rankings.<br><br>
+🌱 I’m currently learning **Typescript** and **Next.js**.<br><br>
+👯 I’m looking for a job to level-up my hard and soft skills and challenge myself.<br><br>
+💬 Ask me about Javascript, Node.js, React, Redux, Express, PostgreSQL. <br><br>
+📫 How to reach me:<br><br>
+      via LinkedIn: https://www.linkedin.com/in/francisco--garcia/.<br><br>
+      via email: franciscojgarcia1990@gmail.com<br><br>
 
-Here are some ideas to get you started:
+⚡ Fun fact: I'm passionate about soccer and sports in general <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Stack :books: <br>
+
+### Frontend <br>
+
+### Backend <br> 
