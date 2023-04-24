@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Francisco 👋</h1>
 <h3 align="center">A Full Stack Developer :man_technologist: from Argentina 🇦🇷</h3>
 
-🔭 I’m currently working on **The Prode Project**, an aplication where users from different countries can participate in tournaments according to their        geographic location, make predictions, view results and rankings.<br><br>
+🔭 I’m currently working on [**Tonic3Prode Project**](https://github.com/Tonic3Prode), an aplication where users from different countries can participate in tournaments according to their        geographic location, make predictions, view results and rankings.<br><br>
 🌱 I’m currently learning **Typescript** and **Next.js**.<br><br>
 👯 I’m looking for a job to level-up my hard and soft skills and challenge myself.<br><br>
 💬 Ask me about Javascript, Node.js, React, Redux, Express, PostgreSQL. <br><br>
