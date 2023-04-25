@@ -9,7 +9,7 @@
       via LinkedIn: https://www.linkedin.com/in/francisco--garcia/.<br><br>
       via email: franciscojgarcia1990@gmail.com<br><br>
 
-⚡ Fun fact: I'm passionate about soccer and sports in general. <br><br>
+⚡ Fun fact: I'm passionate about football and sports in general. <br><br>
 
 
 <h3 align="left">My stack 📚</h3>
