@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Francisco 👋</h1>
 <h3 align="center">A Full Stack Developer :man_technologist: from Argentina 🇦🇷</h3>
 
-🔭 I’m currently working at [**Hotelinking**](https://hotelinking.com), a travel tech company that offers a suite of tools specifically designed to give guests a 100% contactless experience.<br><br>
+🔭 I’m currently working at [**Hotelinking**](https://hotelinking.com), a travel tech company that offers a suite of tools specifically designed to allow guests to enjoy a 100% contactless experience.<br><br>
 🌱 I’m currently learning **AWS**.<br><br>
 👯 I am open to new work challenges to level-up my hard and soft skills.<br><br>
 💬 Ask me about Javascript, Node.js, React, Redux, Vue, Express, PostgreSQL, SQL. <br><br>
@@ -43,7 +43,10 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a> 
-
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> 
+</a> 
+      
 </p>
 <h4 align="left">Backend:</h4>
 <p align="left"> 
@@ -77,6 +80,9 @@
 </a> 
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
 </a> 
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="vitest" width="40" height="40"/> 
+</a> 
 </p>
 
 
@@ -89,7 +95,10 @@
 
 
 <h4 align="left">Others</h4>
-<p align="left"> 
+<p align="left">
+<a href="https://aws.amazon.com/es" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
+</a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
