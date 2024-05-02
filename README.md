@@ -17,11 +17,11 @@
 <h4 align="left">Programming languages:</h4>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbl2Q2_Mva5lOZsYdWkzgnqKztOy4Gl4FVVw&usqp=CAU" alt="php" width="40" height="40"/> 
-</a> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbl2Q2_Mva5lOZsYdWkzgnqKztOy4Gl4FVVw&usqp=CAU" alt="php" width="40" height="40"/> 
+</a>
 </p>
 <h4 align="left">Frontend:</h4>
 <p align="left"> 
