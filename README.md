@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Francisco 👋</h1>
 <h3 align="center">A Full Stack Developer :man_technologist: from Argentina 🇦🇷</h3>
 
-🔭 I’m currently working at [**Hotelinking**](https://hotelinking.com), a travel tech company that offers a suite of tools specifically designed to allow guests to enjoy a 100% contactless experience.<br><br>
+🔭 I’m currently working at [**Viseven**](https://viseven.com), a leading B2B digital marketing company in pharma and life sciences revolutionizing the domain with innovative AI-driven omnichannel marketing solutions and a modular content approach.<br><br>
+🔭 I've previously worked at [**Hotelinking**](https://hotelinking.com), a travel tech company that offers a suite of tools specifically designed to allow guests to enjoy a 100% contactless experience.<br><br>
 🌱 I’m currently learning **AWS**.<br><br>
 👯 I am open to new work challenges to level-up my hard and soft skills.<br><br>
 💬 Ask me about Javascript, Node.js, React, Redux, Vue, Express, PostgreSQL, SQL. <br><br>
